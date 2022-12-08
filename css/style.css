@@ -23,6 +23,7 @@
     padding: 30px 20px 20px;
     background-color: aliceblue;
     border: 2px solid #000000;
+    box-sizing: border-box;
 }
 
 .block__title {
